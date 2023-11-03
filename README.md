@@ -13,6 +13,7 @@ Write everything in a prompt, and paste it in your IDE, change only what you hav
 Machines can type faster, that's a fact. Don't fool yourself. Use CGPT!
 
 Example prompt:
+
 ```Write this code in PHP. I have 3 variables: number0, number1 and number2. Make a while loop that will count from number0 to number2, and every 4th time etherate number1. Use inline logic and make it short.```
 
 ## Debugging
