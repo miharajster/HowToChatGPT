@@ -23,8 +23,8 @@ If the error is about a big pile of code, I only paste in my error so I can und
 Just start your prompt with: ```I need this code translated in PHP -code-```. You will probably need some modifications after you get your answer.
 
 ## Building the solution from scratch
-Watch a short video about the technology on Youtube. More that you know about concepts and got-chas about it, the better the final solution will be. For instance: How to prepare your image for OCR.
-Then type the whole procedure in CGTP.
+Watch everything you can about the technology on Youtube. More that you know about concepts and got-chas about it, the better the final solution will be. For instance: How to prepare your image for OCR.
+Then type the whole procedure in CGTP. Reading documentation is also a plus.
 
 ## Getting to know THE LEGACY
 First I read code myself. Try to understand it as much as I can. Then I just paste the old code in CGPT and read an output.
