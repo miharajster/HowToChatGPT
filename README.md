@@ -27,7 +27,7 @@ Just start your prompt with: ```I need this code translated in PHP -code-```. Yo
 Watch everything you can about the technology on Youtube. More that you know about concepts and got-chas about it, the better the final solution will be. For instance: How to prepare your image for OCR.
 Then type the whole procedure in CGTP. 
 
-Reading documentation is also a plus.
+Reading documentation is also a plus and understanding how to build good solutions is a must.
 
 ## Getting to know THE LEGACY
 First I read code myself. Try to understand it as much as I can. Then I just paste the old code in CGPT and read an output.
