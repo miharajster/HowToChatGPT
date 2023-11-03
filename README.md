@@ -1,6 +1,7 @@
 # How To Use ChatGPT and get UNFAIR Advantage (as a developer)
 
 I have something to confess. I have been using ChatGPT almost every day for a couple of months now. My job knows and it's all about speed, but other developers may see it as cheating.
+
 This short article WILL give you an unfair advantage if you are a mid to senior developer!
 
 ## How I use ChatGPT and why
@@ -35,7 +36,8 @@ First I read code myself. Try to understand it as much as I can. Then I just pas
 You can buy CGPT 4. IMHO is not worth it if you are not working on the cutting edge. And If you do, it wouldn't help you that much any way. It's mostly about Plugins, but I haven't found anything that you can't do with a normal CGPT. For instance: ```Show me the whole code.```
 
 Have fun being 500% faster and don't forget to use your brain as much as you can! 
-Also FFS, don't paste password, usernames, secrets and secret sauces in CGPT!
+
+Also FFS, don't paste password, usernames, secrets and secret sauces in CGPT! And don't forget to learn.
 
 You might like to know [How to Learn from Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube).
 ---
